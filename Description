@@ -1,1 +1,6 @@
+  Segmentating customers can be very useful to track what segment is the most active in the company. This analysis allows a more precise definition of 
+the targets of a marketing campaign (for example). A query was perfomed to find out the recency, monetary and frequency scores. These results were later used 
+to identify the amount of customers that matches the characteristcs of each of the segments.  
 
+      The results can be visualized in Looker Studio, using the link above.
+              LINK: https://lookerstudio.google.com/reporting/af7f13dd-6657-4f4a-b2f7-68197860a9b9
